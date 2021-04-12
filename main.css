@@ -1,0 +1,163 @@
+
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: handel, cursive;
+    font-size: 15px;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 0; color: aliceblue;
+}
+.img-circle {
+    border: 2px solid white;
+    border-radius: 90%;
+    
+    
+}
+.p-spacing{
+    letter-spacing: 5px;
+}
+img {
+    
+    width: 300px;
+    height: 200px;
+}
+h1 span {
+    border : 4px dashed #00fe;
+    padding: 10px;
+    color: aliceblue;
+    
+    
+}
+h1  {
+    font-size: 20pt;
+    color:dodgerblue;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0; 
+}
+p {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+.section {
+    background-color: black;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+}
+.section1{
+    background-color:black;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color:aliceblue;
+    
+}
+.image-kira{
+    float: right;
+
+}
+.table{
+    background:#fff;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    width: 70%;
+    
+}
+    
+#header {
+    background-image: url(C:/Users/saad/OneDrive/Bureau/Programming/KIRA/images/pexels-travis-blessing-1363876.jpg);
+    background-size: cover;
+   
+        
+}
+#header img {
+    display: block;
+    width: 300px;
+    line-height: 200px;
+    margin: auto;
+}
+#header p{
+    font-size: 56pt;
+    color: #3b464c;
+    padding-top: 5pt;
+    margin: 0;
+    font-weight: bold;
+    
+}
+
+
+button {
+   background-color: crimson;
+    font-family: cursive;
+    font-size: 16px;
+    color:aliceblue;
+    border-bottom: 5px;
+    border-color: chocolate;
+}
+.link {
+    font-size: 20px;
+    color:black;
+    list-style-type: none;    
+   
+}
+ul{ 
+display: table;
+    list-style: none;
+    padding: 0;
+    
+}
+ul li{
+    
+    display: inline-block;
+    padding: 5px; 
+    border: dashed #a5d;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+    float: right;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button1 {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
